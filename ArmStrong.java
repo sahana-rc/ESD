@@ -4,7 +4,6 @@ import java.util.Scanner;
 class ArmStrong{
 public static void main(String args[]){
 
-//int InputNumber;
 int copyNumber;
 
 Scanner myObj = new Scanner(System.in);
