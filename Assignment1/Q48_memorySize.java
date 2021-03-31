@@ -6,7 +6,7 @@ class Q48_memorySize{
 
 static void memorySize(int aLength){
 
-System.out.println("Memory Size in bytes is "+(int)(Math.pow(2,aLength))+" bytes");
+System.out.println("Memory Size in bytes is "+((Math.pow(2,aLength))/8)+" bytes");
 
 }
 	
